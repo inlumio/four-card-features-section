@@ -66,6 +66,7 @@ body {
 	overflow: hidden;
 	position: relative;
 	background-color: var(--acc-clr);
+	transition: 1s ease;
 }
 
 .card::after {
